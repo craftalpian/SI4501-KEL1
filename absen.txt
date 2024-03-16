@@ -1,1 +1,13 @@
+<<<<<<< HEAD
 M Insan Taufik
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+Sabitha Aulia Naziba
+=======
+Amalina Zahrani Putri
+>>>>>>> 656b1590c3320b614841275672267ee243d3a910
+=======
+Windy Kurniawan
+>>>>>>> 965b090ca01fc562f209cb9c3dc1998408ae4921
+>>>>>>> 3b276a05d1ba4a319f54f773c159ca0ae9a1df42
