@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Amalina Zahrani Putri
+=======
+Windy Kurniawan
+>>>>>>> 965b090ca01fc562f209cb9c3dc1998408ae4921
