@@ -1,27 +1,6 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
 Alfian Ananda Putra
-=======
-<<<<<<< HEAD
-=======
 Risas Daud Ibrahim
-=======
-<<<<<<< HEAD
 M Insan Taufik
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
 Sabitha Aulia Naziba
-=======
->>>>>>> 012a6366a0f987c2ef51d67316a72bc8d8e3c39e
 Amalina Zahrani Putri
->>>>>>> 656b1590c3320b614841275672267ee243d3a910
-=======
 Windy Kurniawan
->>>>>>> 965b090ca01fc562f209cb9c3dc1998408ae4921
-<<<<<<< HEAD
->>>>>>> 656b1590c3320b614841275672267ee243d3a910
-=======
->>>>>>> 3b276a05d1ba4a319f54f773c159ca0ae9a1df42
->>>>>>> ab18e4d153c5d071b22e2ab613ed49c2bde9cf3a
->>>>>>> 012a6366a0f987c2ef51d67316a72bc8d8e3c39e
